@@ -1,5 +1,6 @@
 # Random-color-generator
 
+
 # 🎨 Random Color Generator
 
 Ek simple aur interactive JavaScript project jo click karne par random hex colors generate karta hai aur unhe background par apply karta hai.
