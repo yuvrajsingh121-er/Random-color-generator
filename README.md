@@ -9,6 +9,7 @@ Ek simple aur interactive JavaScript project jo click karne par random hex color
 
 ## 🧐 Overview
 
+
 Yeh project beginner-friendly hai aur Vanilla JavaScript ke DOM manipulation aur Math functions ko samajhne ke liye behtareen hai. Iska istemal aap apne web projects mein dynamic themes banane ke liye kar sakte hain.
 
 ## 🚀 Live Demo
